@@ -1,0 +1,14 @@
+layout_spectrum: 0.8508416349068284
+typography_spectrum: 0.6769150055479258
+color:
+  brandStrength: 0.9286011371295899
+  lightness: 0.6435057166963816
+  saturation: 0.4460292325820774
+  rhythmicContrast: 0.8167483685538173
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: "Lisa's Website"
