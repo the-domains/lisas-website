@@ -1,28 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+name: Swid Family Daycare
+layout_spectrum: 0.561403
+typography_spectrum: 0.7872341
+analytics:
+  google: UA-78475073-2
+opengraph:
+  type: ''
+  appId: ''
 color:
-  saturation: 0.498903
-  brandStrength: 0.5404255
-  lightness: 0.506578
   brandColors:
     - '#D2BEA4'
     - '#41343E'
     - '#A48775'
     - '#675663'
     - '#946466'
+  brandStrength: 0.5404255
+  lightness: 0.506578
+  saturation: 0.498903
   rhythmicContrast: 0.502192
-typography_spectrum: 0.7872341
-layout_spectrum: 0.561403
-name: Swid Family Daycare
-analytics:
-  google: UA-78475073-2
+title: ''
+author:
+  name: Lisa Swid
+  url: ''
+  email: ''
+content_rating:
+  adult: false
